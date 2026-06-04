@@ -1,2 +1,2 @@
 # github-practice
-Author - Phanitha Reddy
+This is my first Git Repository Author - Phanitha Reddy
